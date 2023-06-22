@@ -1,0 +1,30 @@
+table {
+    border: 1px groove red;
+    margin: 100px auto;
+}
+td {
+    height: 50px;
+    width: 50px;
+
+}
+
+#white {
+    background-color: white;
+}
+
+#black {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+}
+ 
+h1 span{
+
+    color: aliceblue;
+    border-bottom: 2px solid white;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM08Uwzcc1DG5wtAkLexl20p0soQC9mnkBAXWwpp2sdQ&s);
+}
